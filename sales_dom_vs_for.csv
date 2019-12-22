@@ -1,0 +1,120 @@
+GENRE,ROUND(AVG(Domestic_Sales)),"ROUND(AVG(Foriegn_Sales) )"
+"Action, Adventure",173810096,585100032
+"Action, Adventure, Biography",70896482,151664480
+"Action, Adventure, Comedy",182854387,275485122
+"Action, Adventure, Drama",86867337,191120914
+"Action, Adventure, Family",55113555,65474762
+"Action, Adventure, Fantasy",174386817,347341609
+"Action, Adventure, Horror",57005600,98706480
+"Action, Adventure, Mystery",66184052,113062816
+"Action, Adventure, Sci-Fi",265678520,467709810
+"Action, Adventure, Thriller",156382111,534115630
+"Action, Adventure, Western",93432656,68927984
+"Action, Biography, Comedy",51342000,83524592
+"Action, Biography, Drama",221813872,137281632
+"Action, Comedy",28848692,27874000
+"Action, Comedy, Crime",53854474,53434397
+"Action, Comedy, Fantasy",69644355,53131986
+"Action, Comedy, Horror",72527312,46927844
+"Action, Comedy, Romance",34694,572901
+"Action, Comedy, Sci-Fi",46594284,89412886
+"Action, Comedy, Thriller",75468584,101118120
+"Action, Crime, Drama",34745824,42597652
+"Action, Crime, Thriller",68401774,62156579
+"Action, Drama, History",101211651,151568833
+"Action, Drama, Horror",NULL,1133031
+"Action, Drama, Mystery",92054160,85942314
+"Action, Drama, Sci-Fi",105129132,215536779
+"Action, Drama, War",85817904,126000000
+"Action, Horror, Sci-Fi",63850610,142901326
+"Action, Mystery, Thriller",51687872,48326156
+"Action, Sci-Fi",100206256,270335008
+"Action, Sci-Fi, Thriller",123607832,415234832
+"Action, Thriller",55887854,98225593
+"Adventure, Comedy, Crime",59301324,113635616
+"Adventure, Comedy, Drama",67810381,12851306
+"Adventure, Comedy, Family",40891592,186440352
+"Adventure, Crime, Drama",17484,4791538
+"Adventure, Drama, Family",203002732,318316356
+"Adventure, Drama, Fantasy",43695004,105851592
+"Adventure, Drama, Horror",44307192,17880338
+"Adventure, Drama, Mystery",50187588,76987552
+"Adventure, Drama, Sci-Fi",208226840,445586016
+"Adventure, Family, Fantasy",158423849,390035288
+"Adventure, Fantasy",255119792,700899968
+"Animation, Action, Adventure",175057155,286146053
+"Animation, Action, Comedy",175750384,136200000
+"Animation, Adventure, Comedy",190404567,330436562
+"Animation, Adventure, Family",209726016,597356160
+"Animation, Drama, Fantasy",3740823,43568488
+"Biography, Comedy, Crime",43034524,43200000
+"Biography, Comedy, Drama",25535829,17344681
+"Biography, Crime, Drama",20821262,17554702
+"Biography, Drama",18934807,7482225
+"Biography, Drama, History",56859704,18343422
+"Biography, Drama, Music",83463311,166695095
+"Biography, Drama, Romance",16332033,48595088
+"Biography, Drama, Sport",41839142,14276449
+"Biography, Drama, Thriller",45563514,72571319
+"Biography, Drama, War",13406883,1103607
+"Biography, Drama, Western",1508593,42928
+Comedy,59701137,41915153
+"Comedy, Crime",50932673,24502226
+"Comedy, Crime, Drama",25820957,26687668
+"Comedy, Crime, Thriller",22105644,25241640
+"Comedy, Drama",39710058,59213508
+"Comedy, Drama, Fantasy",23467965,9774140
+"Comedy, Drama, History",78031616,76952416
+"Comedy, Drama, Music",24885644,21558166
+"Comedy, Drama, Romance",36424713,24206203
+"Comedy, Drama, Sport",17501244,8100000
+"Comedy, Drama, War",10252934,1845927
+"Comedy, Family",150357136,92429000
+"Comedy, Fantasy",43047372,9348624
+"Comedy, Fantasy, Horror",6563605,7400000
+"Comedy, Music",144596876,91675332
+"Comedy, Musical, Romance",120634936,274409760
+"Comedy, Romance",25772058,18194301
+"Crime, Drama",19525412,11523736
+"Crime, Drama, History",195792,3562536
+"Crime, Drama, Horror",170113,3126897
+"Crime, Drama, Mystery",21713597,30689718
+"Crime, Drama, Thriller",83564097,151373713
+"Crime, Horror, Mystery",5728,341001
+"Crime, Mystery, Thriller",252676,234744
+"Crime, Thriller",12639297,10480145
+Documentary,2103918,52199
+"Documentary, Biography, Drama",111376,NULL
+"Documentary, Biography, News",2800870,202299
+"Documentary, Comedy",23591044,NULL
+Drama,16002777,16459419
+"Drama, Family, Fantasy",201151360,341200000
+"Drama, Fantasy, Horror",84489280,100033333
+"Drama, Fantasy, Mystery",513447,83486
+"Drama, Fantasy, Romance",3849224,2337542
+"Drama, History, Thriller",49941655,58847062
+"Drama, Horror",491910,54442
+"Drama, Horror, Mystery",36227038,32986674
+"Drama, Horror, Sci-Fi",188024368,152915008
+"Drama, Horror, Thriller",55124044,63976716
+"Drama, Music",13092000,35890040
+"Drama, Music, Romance",215288864,219600000
+"Drama, Mystery, Romance",1036737,682420
+"Drama, Mystery, Sci-Fi",38012404,31908376
+"Drama, Mystery, Thriller",61530612,68009001
+"Drama, Romance",30251755,53036765
+"Drama, Romance, Sci-Fi",53949995,105018774
+"Drama, Romance, Thriller",133287496,337530736
+"Drama, Romance, War",843120,3828810
+"Drama, Sci-Fi, Thriller",32102779,48577178
+"Drama, Sport",81094768,51674436
+"Drama, Thriller",8700458,13562052
+"Drama, War",1076075,6103316
+"Drama, Western",3014998,7338584
+"Family, Fantasy, Musical",504014176,759506944
+"Fantasy, Thriller",1359,1619278
+Horror,119896835,133308653
+"Horror, Mystery, Sci-Fi",25801570,12555322
+"Horror, Mystery, Thriller",49723514,63801922
+"Horror, Sci-Fi, Thriller",52248027,118468756
+"Horror, Thriller",62377820,50029954
