@@ -24,6 +24,7 @@ https://www.imdb.com/ , https://www.boxofficemojo.com/
 ### Work Environment:  
 Parsing was done in a Python environment utlizing Jupyter Notebooks.   Data was collected onto MYSQL Workbench kept on an AWS cloud server.  
 
-
+### Presentation:
+https://docs.google.com/presentation/d/1_0kw0GY6rlg6RvuCcqff1c_5lnn0RGNnPV_rGdQz2Ko/edit?usp=sharing
 
 
